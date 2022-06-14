@@ -43,11 +43,18 @@ namespace MyGameIS_20_03.Forms
         {
             Forms.WorkListWindows work = new WorkListWindows();
             work.ShowDialog();
+            gridInfoGamer.DataContext = null; 
+            gridInfoGamer.DataContext = Gamer;
+
+        }
+        private void btPr_Click(object sender, RoutedEventArgs e)
+        {
+            Forms.Prdmt Prdmt = new Prdmt();
+            Prdmt.ShowDialog();
             gridInfoGamer.DataContext = null;
             gridInfoGamer.DataContext = Gamer;
 
         }
-
         private void btSave_Click(object sender, RoutedEventArgs e)
         {
 
@@ -56,7 +63,7 @@ namespace MyGameIS_20_03.Forms
             newGame.DateCreate = Gamer.DateCreate;
             newGame.Experience = Gamer.Experience;
             newGame.Age = Gamer.Age; 
-            newGame.Work = Gamer.Work;
+            newGame.Prdmt = Gamer.Prdmt;
 
             App.myGamerList.Add(newGame);
             MainWindow mainWindow = new MainWindow();

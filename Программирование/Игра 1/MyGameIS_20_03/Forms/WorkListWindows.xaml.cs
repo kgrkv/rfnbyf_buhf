@@ -41,7 +41,7 @@ namespace MyGameIS_20_03.Forms
 
             if(work.minqualifications <= App.myGamer.Experience)
             {
-                App.myGamer.Work = work.Name;
+                App.myGamer.Prdmt = work.Name;
                 Close();
             }
             else

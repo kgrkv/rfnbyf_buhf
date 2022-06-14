@@ -11,10 +11,10 @@ namespace MyGameIS_20_03.Model
         public Gamer()
         {
             Experience = 1;
-            Work = "Начинающий блоггер";
+            Prdmt = "Начинающий блоггер";
             Money = 100;
             qualifications = "Без категории";
-            Predmet = "0 предметов"
+            Predmet = "0 предметов";
         }
 
         public string Name { get; set; }
@@ -23,7 +23,7 @@ namespace MyGameIS_20_03.Model
         public int Age { get; set; }
         public DateTime DateCreate { get; set; }
         public double Experience { get; set; }
-        public string Work { get; set; }
+        public string Prdmt { get; set; }
         public double Money { get; set; }
         public string Predmet { get; set; }
 

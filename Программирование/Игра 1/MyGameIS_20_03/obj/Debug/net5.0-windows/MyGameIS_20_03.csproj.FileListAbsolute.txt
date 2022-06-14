@@ -28,3 +28,15 @@ C:\Users\User\Desktop\Программирование\Игра 1\MyGameIS_20_03
 C:\Users\User\Desktop\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MyGameIS_20_03.pdb
 C:\Users\User\Desktop\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MyGameIS_20_03.genruntimeconfig.cache
 C:\Users\User\Desktop\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\ref\MyGameIS_20_03.dll
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MyGameIS_20_03.csprojAssemblyReference.cache
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\Forms\GameWindows.g.cs
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\Forms\NewGameWindows.g.cs
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\Forms\RunGameWindows.g.cs
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\Forms\WorkListWindows.g.cs
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MyGameIS_20_03_MarkupCompile.cache
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MyGameIS_20_03_MarkupCompile.lref
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MyGameIS_20_03.dll
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\ref\MyGameIS_20_03.dll
+C:\Users\user\Documents\Grekova E.V. (не удалять)\Программирование\Игра 1\MyGameIS_20_03\obj\Debug\net5.0-windows\MyGameIS_20_03.pdb

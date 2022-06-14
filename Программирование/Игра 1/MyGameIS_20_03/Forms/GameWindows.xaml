@@ -81,6 +81,8 @@
 
         <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,272,0" Grid.RowSpan="3">
             <Button x:Name="btWork"  Click="btWork_Click">Работа</Button>
+            <Button x:Name="btPr"  Click="btPr_Click">Предметы</Button>
+
 
         </StackPanel>
 
